@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Роман  Григоренко](https://up.htmlacademy.ru/javascript/17/user/958641).
-* Наставник: `Неизвестно`.
+* Наставник: [Сергей Бородин](https://htmlacademy.ru/profile/id1092697).
 
 ---
 
